@@ -19,4 +19,4 @@ I'm passionate about:
 
 # ✉️ Let's Connect
 #### - Feel free to email me, whether it's tech-related or just a chat, I'm always up to talk! diamond.d@northeastern.edu
-#### - Connect with me on [LinkedIn]([url](https://www.linkedin.com/in/duke-diamond-536002327/))
+#### - Connect with me on [LinkedIn]([(https://www.linkedin.com/in/duke-diamond-536002327/)]())
