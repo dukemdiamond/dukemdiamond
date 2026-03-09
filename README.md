@@ -1,31 +1,42 @@
-# Hey!
+# Hi there
 
-I'm **Duke Diamond**, an undergraduate Computer Science + AI at **Northeastern University**.
+## My name is **Duke Diamond**.
 
-I've come to enjoy:
-##### -  Software Development
-##### -  AI / ML Applications
-##### -  Quantitative Finance, Derivatives, and Trading
+I am an undergraduate Computer Science & Artificial Intelligence student at **Northeastern University**.
 
-# 🔧 Technical Skills
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+---
 
-# I have experience working on:
-#### - Quantitative Development for a small asset manager; working on a long equity portfolio
-#### - Backend Development & Automation for a international education nonprofit
-#### - Teaching Assistant for Discrete Mathematics
-#### - Economics Research & Data Engineering for a COVID-19 Study in regard to Labor Statistics
+## I have experience in full stack development, and am passionate about software in education.
 
-# What's Next?
-#### - Currently working on a Swift / iOS app student food marketplace
-#### - Planning out a Computer Vision project to analyze volleyball setting patterns
-#### - I'll be a Software Engineer Intern at Duolingo this summer. Super excited to work on something my younger self would be so proud about, and creating things that make education more equally accessible.
+Found this out early after I started teaching 6-15 year olds basic programming. 
+I then continued to do volunteer development work for educational nonprofits, become a Teaching Assistant at my university, and next a Software Engineer Intern at **Duolingo**, where I'll be working on a product encouraging millions to learn worldwide.
 
-# 💎 A little about me:
-#### - 🌊 I love surfing. I was named after the GOAT + Pioneer of Surfing, Duke Kahanamoku
-#### - 🏐 I played as a setter & coached for Northeastern's Oakland volleyball team. Love the sport!
-#### - 🤙 I enjoy staying active and holding myself accountable with daily goals, calorie counting, and Kaizen
+---
 
-# ✉️ Feel free to connect! Always open to any conversation
-#### - Email: diamond.d@northeastern.edu
-#### - Connect with me on [LinkedIn]([(https://www.linkedin.com/in/duke-diamond-536002327/)]())
+I also am very interested in finance & economics, as I think knowing them can make a lot of things in the real world make sense. I've become particularly interested in **Quantitative Finance**, which is reflected in a lot of my projects and a previous internship. I have also done some Economics research on labor statistics during COVID-19, presented in a national conference in California.
+
+---
+
+### Tech Stack
+
+**Languages:** Python, C++, Java, JavaScript, SQL (Postgres, MySQL)
+
+**Frameworks:** React, Node, Next, Express, Flask
+
+---
+
+Outside of programming, I love keeping active. I count my calories diligently (but love Dumplings & any Chicken) and try to stay consistent with lifting, playing volleyball, and hiking.
+
+My next trip will be to Guatemala, to ascend Mount Fuego (Acatenango), a live erupting volcano. Super excited for that!
+
+Also understand relationships are one if not the most important parts of life, so I want to meet and be close to as many people as I can!
+
+---
+
+### Let's Connect
+
+Feel free to reach out any time!
+
+**Email:** [dukediamondd@gmail.com](mailto:dukediamondd@gmail.com)
+
+**LinkedIn:** [/duke-diamond](https://www.linkedin.com/in/duke-diamond)
