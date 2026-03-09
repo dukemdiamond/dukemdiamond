@@ -33,9 +33,8 @@ Also understand relationships are one if not the most important parts of life, s
 
 ---
 
-### Let's Connect
 
-Feel free to reach out any time!
+### Feel free to reach out any time!
 
 **Email:** [dukediamondd@gmail.com](mailto:dukediamondd@gmail.com)
 
