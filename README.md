@@ -9,7 +9,7 @@ I am a junior Computer Science & Artificial Intelligence student at **Northeaste
 
 ## I have experience in full stack development, and am passionate about software in education.
 
-Found this out early after I started teaching 6-15 year olds basic programming. 
+Found this out early after I started teaching 6-15 year olds basic programming. It was awesome being able to have a direct impact on people & watching them grow. 
 I then continued to do volunteer development work for educational nonprofits, become a Teaching Assistant at my university, and next a Software Engineer Intern at **Duolingo**, where I'll be working on a product encouraging millions to learn worldwide.
 
 ---
