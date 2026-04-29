@@ -16,7 +16,7 @@ I then continued to do volunteer development work for educational nonprofits, be
 
 ---
 
-I also am very interested in finance & economics, as I think peering in can make a lot of things in the real world make sense. I've become particularly interested in Quantitative Finance, which is reflected in a lot of my projects and a previous internship. I have also done some Economics research on labor statistics during COVID-19, presented in a national conference in California.
+I also am very interested in finance & economics, as I think some underlying concepts can make lots of things in the real world make sense. I've become particularly interested in quantitative finance & algorithmic trading, which is reflected in a lot of my projects and a previous internship. I have also done some Economics research on labor statistics during COVID-19, presented in a national conference in California.
 
 ---
 
@@ -29,11 +29,9 @@ I also am very interested in finance & economics, as I think peering in can make
 
 ---
 
-Outside of programming, I love keeping active. I count my calories diligently (but love Dumplings & any Chicken) and try to stay consistent with lifting, playing volleyball, and hiking.
+Outside of programming, I like to keep active. I count my calories diligently (but fold for Dumplings & any Chicken) and stay consistent with lifting, playing volleyball, and hiking.
 
-My next trip will be to Guatemala, to ascend Mount Fuego (Acatenango), a live erupting volcano. Super excited for that!
-
-I also understand relationships are one if not the most important parts of life, so I want to meet and be close to as many people as I can!
+I also understand relationships are one if not the most important parts of life, so I always want to meet and be close to as many people as I can.
 
 ---
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/236c7357-8c07-49b1-a05e-d22ce939022a" />
