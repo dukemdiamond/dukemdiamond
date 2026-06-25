@@ -3,41 +3,14 @@
 ## My name is **Duke Diamond** 
 
 
-I am a junior Computer Science & Artificial Intelligence student at **Northeastern University**.
+See my website to learn about me!
 
----
-
-## I have experience in full stack development, and am passionate about software in education.
-
-Found this out early after I started teaching 6-15 year olds basic programming. 
-It was awesome being able to have a direct impact on people & watching them grow. 
-
-I then continued to do volunteer development work for educational nonprofits, become a Teaching Assistant at my university, and next a Software Engineer Intern at **Duolingo**, where I'll be working on a product encouraging millions to learn worldwide.
-
----
-
-I also am very interested in finance & economics, as I think some underlying concepts can make lots of things in the real world make sense. I've become particularly interested in quantitative finance & algorithmic trading, which is reflected in a lot of my projects and a previous internship. I have also done some Economics research on labor statistics during COVID-19, presented in a national conference in California.
-
----
-
-### Tech Stack
-
-**Languages:** Python, C++, Java, JavaScript, SQL (Postgres, MySQL), Swift
-
-
-**Frameworks:** React, Node, Next, Express, Flask
-
----
-
-Outside of programming, I like to keep active. I count my calories diligently (but fold for Dumplings & any Chicken) and stay consistent with lifting, playing volleyball, and hiking.
-
-I also understand relationships are one if not the most important parts of life, so I always want to meet and be close to as many people as I can.
-
+[Here](dukemdiamond.com)
 ---
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/236c7357-8c07-49b1-a05e-d22ce939022a" />
 
 
-### Feel free to reach out any time!
+### Feel free to reach out any time :) 
 
 **Email:** [dukediamondd@gmail.com](mailto:dukediamondd@gmail.com)
 
