@@ -5,7 +5,7 @@
 
 See my website to learn about me!
 
-[Here](dukemdiamond.com)
+[Here](https://dukemdiamond.com)
 ---
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/236c7357-8c07-49b1-a05e-d22ce939022a" />
 
